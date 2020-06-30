@@ -31,12 +31,10 @@ p{
 .half-width img{
     width: 100%;
     height: auto;
-    margin: 50px 0 0 50px;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
-
 }
 section{
     height: 500px;
@@ -62,7 +60,6 @@ section{
 }
 .experience-area h1{
     margin-bottom: 20px;
-    text-align: center;
     font-size: 40px
 }
 .single-exp{
