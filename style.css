@@ -57,10 +57,12 @@ section{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    text-align: center;
 }
 .experience-area h1{
     margin-bottom: 20px;
-    font-size: 40px
+    font-size: 40px;
+    
 }
 .single-exp{
     box-shadow: 10px 10px 40px gray;
